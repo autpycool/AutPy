@@ -7,4 +7,4 @@ It works fine in vscode or vscodium on your local machine.
 
 ## Progress
 
-as of 20/11/2023, all Notebooks schould be up to date and result in 100% of the tests passed. If not, let me know.
+As of 20/11/2023, all Notebooks schould be up to date and result in 100% of the tests passed. If not, let me know.
